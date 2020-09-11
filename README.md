@@ -1,5 +1,5 @@
 # Algebra-Tools
 
-###Dependecies
+### Dependecies
 
 1. openpyxl
